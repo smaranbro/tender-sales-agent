@@ -1,0 +1,4 @@
+crewai==0.86.0
+crewai-tools==0.17.0
+resend==2.6.0
+python-dotenv==1.0.1
